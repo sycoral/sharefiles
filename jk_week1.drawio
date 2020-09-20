@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T10:37:00.930Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="1dmmr7PKps5ivNCq86RQ" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T10:38:52.270Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="oTwoHpqZH0Wlb0tUPv54" version="13.7.3" type="github">
   <diagram id="fpTGBzLA4DZg_G3Q7GAP" name="Page-1">
     <mxGraphModel dx="1038" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="zmjkEydDW2bUeKECNTXz-98" value="消费终端" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="1154" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="zmjkEydDW2bUeKECNTXz-99" value="扣款" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="zmjkEydDW2bUeKECNTXz-99" value="扣款调用" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="250" y="1172" as="sourcePoint" />
             <mxPoint x="360" y="1172" as="targetPoint" />

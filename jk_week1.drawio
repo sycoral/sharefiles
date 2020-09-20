@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T08:52:44.236Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" version="13.7.3" etag="L6HNJbmSOYw9n3MXdzGA" type="github"><diagram id="fpTGBzLA4DZg_G3Q7GAP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-20T09:32:33.171Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="5h_xurfzHFN-7XEftL1c" version="13.7.3" type="github">
+  <diagram id="fpTGBzLA4DZg_G3Q7GAP" name="Page-1">
+    <mxGraphModel dx="1038" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zmjkEydDW2bUeKECNTXz-2" value="管理中心" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="60" width="370" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-1" value="消费者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="115" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-4" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-5" value="消费卡&lt;br&gt;:身份&lt;br&gt;:余额" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-6" value="管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="200" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-7" value="消费记录" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-8" value="服务员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-9" value="缴费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zmjkEydDW2bUeKECNTXz-1" target="zmjkEydDW2bUeKECNTXz-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="250" as="sourcePoint" />
+            <mxPoint x="110" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zmjkEydDW2bUeKECNTXz-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="110" as="sourcePoint" />
+            <mxPoint x="200" y="142.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-21" value="消费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zmjkEydDW2bUeKECNTXz-1" target="zmjkEydDW2bUeKECNTXz-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

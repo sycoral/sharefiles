@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T10:31:17.775Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="3OYQczoyOOeQO-72HGlw" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T10:37:00.930Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36" etag="1dmmr7PKps5ivNCq86RQ" version="13.7.3" type="github">
   <diagram id="fpTGBzLA4DZg_G3Q7GAP" name="Page-1">
     <mxGraphModel dx="1038" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -207,6 +207,33 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="635" y="930" as="sourcePoint" />
             <mxPoint x="295" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-92" value="管理中心" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1080" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-93" value="卡管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-94" value="缴费管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-95" value="消费管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="394" y="1200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-96" value="报表管理" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-97" value="收款机" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1109" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-98" value="消费终端" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1154" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zmjkEydDW2bUeKECNTXz-99" value="扣款" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="250" y="1172" as="sourcePoint" />
+            <mxPoint x="360" y="1172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
